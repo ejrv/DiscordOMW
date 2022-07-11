@@ -3,7 +3,7 @@ DiscordOnMyWay! Is a Discord CSS Modification to change Discord Design And API T
 
 (New) First Way:
 
-1. Install Tampermonkey ([Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+1. Install Tampermonkey [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 
 2. Click [Here](https://github.com/auslie/DiscordOMW/raw/main/DiscordOMW.user.js)
 
