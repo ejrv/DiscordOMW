@@ -8,6 +8,6 @@ DiscordOnMyWay! Is a Discord CSS Modification to change Discord Design And API T
 3.  Copy the lines in `2015.css` and set it for discord.com
 4. Click Save
 5. Refresh https://discord.com/app
-6. (OPTIONAL) Open Settings --> Appeareance --> Theme: Light --> Dark Sidebar: On
+6. Open Settings --> Appeareance --> Theme: Light --> Dark Sidebar: On
 
 Done!
