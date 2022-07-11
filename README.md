@@ -1,7 +1,22 @@
 # DiscordOMW
 DiscordOnMyWay! Is a Discord CSS Modification to change Discord Design And API To the Good Old 2015 Discord
 
-(New) Browser Guide:
+(New) First Way:
+
+1. Install Tampermonkey
+
+2. Click [Here](https://github.com/auslie/DiscordOMW/raw/main/DiscordOMW.user.js)
+
+3. Click Install
+
+4. Refresh Discord 1 Or 2 Times. (If you logged off, Login Again)
+
+Done :D
+
+
+
+
+(Old) Second Way:
 
 1. Get Stylus ([Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/))
 2. Create new userstyle
