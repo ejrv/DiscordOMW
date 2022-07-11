@@ -3,7 +3,7 @@
 // @namespace    DiscordOnMyWay
 // @version      1.0
 // @description  Old 2015 Discord Client.
-// @author       Theme By danliend#2738 - Converted By Daniel
+// @author       Theme By danliend#2738 - Converted By Daniel_05#3737
 // @match        https://discord.com/*
 // @grant        GM_addStyle
 // ==/UserScript==
