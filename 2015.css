@@ -7,7 +7,7 @@
 * @source https://github.com/auslie/DiscordOMW/blob/main/2015.css
 */
 
-@import url(https://raw.githubusercontent.com/auslie/DiscordOMW/main/container.css);
+@import url(https://xyzenix.github.io/XYZenixThemes/DTM-16-V5/DTM-16.css);
 :root {
  --showRtcConnectionStatusIcon: block; /* show the vc ping/status icon | block = show | none = hide */
  --jumboEmojiSize: 2rem; /* Old - 2rem | New - 3rem */
