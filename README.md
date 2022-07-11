@@ -9,3 +9,6 @@ Just Some ;)
 3.  Copy the lines in `2015.css` and set it for discord.com
 4. Click Save
 5. Refresh https://discord.com/app
+6. (OPTIONAL) Open Settings --> Appeareance --> Theme: Light
+
+Done!
