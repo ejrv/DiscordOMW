@@ -35,3 +35,12 @@ Done :D
 6. Open Settings --> Appeareance --> Theme: Light --> Dark Sidebar: On
 
 Done!
+
+
+**Credits:**
+
+**Thanks @XYZenis For The CSS**
+
+**Thanks Myself For The API And Tutorial**
+
+**Thanks @DanielProfessional For The Userscript**
